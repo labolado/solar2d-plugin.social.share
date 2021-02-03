@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <paths>
+        <files-path
+            name="my_app_data"
+            path="app_data" />
+        <root-path
+            name="my_root"
+            path="" />
+        <cache-path
+            name="my_cache"
+            path="cache" />
+    </paths>
+</resources>
